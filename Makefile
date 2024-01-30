@@ -1,4 +1,4 @@
-PREFIX = /usr/local
+PREFIX = /usr
 
 install:
 	install -dm755 $(DESTDIR)$(PREFIX)/share/pacman/keyrings/
